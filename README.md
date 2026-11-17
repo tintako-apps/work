@@ -2,9 +2,9 @@
 
 # Work
 
-Mail, calendar, notes and to-do lists, designed for E Ink. Turn off the modules you don't need; their data stays on the phone.
+Mail, calendar, notes and to-do lists, made for E Ink. Turn off the modules you don't need; their data stays on the phone.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tintako)
 
 ## What it can do
 
@@ -38,11 +38,17 @@ Mail, calendar, notes and to-do lists, designed for E Ink. Turn off the modules 
 - Most providers require an app-specific password instead of your normal one
 - Attachments are not downloaded to the phone
 - Outlook, Hotmail and Proton Mail are not supported for mail; their calendars can be added by link
+- Nothing you were typing is kept if the phone closes the app in the background
 
 ## Permissions
 - Internet: to reach your mail and calendar providers
 - Contacts: read only, when you pick a recipient
 - Camera: only to scan a QR code, while the scanner is open; no picture is saved
 
+## Privacy
+No accounts with us, no ads, no analytics and no tracking. See [PRIVACY.md](PRIVACY.md), [TERMS.md](TERMS.md) and [LICENSES.md](LICENSES.md).
+
+Made by Tintako · app@tintako.com
+
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
+Download the latest APK from [Releases](../../releases/latest) and install it on your device.
